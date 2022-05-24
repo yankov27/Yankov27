@@ -10,15 +10,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
       <img src="https://komarev.com/ghpvc/?username=yankov27&style=flat-square&color=blue" alt=""/>                                                                              
-</div>
-        ### :man_technologist: About Me :
-        I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
-        - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-        - :seedling: Exploring Technical Content Writing.
-
-        - :zap: In my free time, I am playing PC games and read tech articles.
-       
+</div>      
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>                                                            
    <div>
@@ -29,8 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
-     </div> ---
-             ### :hammer_and_wrench: Languages and Tools :                                                                                                                                  
+     </div>
+                                                                                                                                               
 <!--
 **yankov27/Yankov27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
