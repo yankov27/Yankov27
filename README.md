@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
   <div id="badges">
-    <a href="https://www.facebook.com/DanielQnkov">
-    <li><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></li>
-      </a>
+    <ul><a href="https://www.facebook.com/DanielQnkov">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+      </a></ul>
 </div>
 </div>
 
