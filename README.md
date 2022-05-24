@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif">
+</div>
+
 
 <!--
 **yankov27/Yankov27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
