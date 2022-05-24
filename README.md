@@ -11,7 +11,14 @@
 </h1>
       <img src="https://komarev.com/ghpvc/?username=yankov27&style=flat-square&color=blue" alt=""/>                                                                              
 </div>
-                                                                                                
+        ### :man_technologist: About Me :
+        I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
+        - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+        - :seedling: Exploring Technical Content Writing.
+
+        - :zap: In my free time, I am playing PC games and read tech articles.
+       
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>                                                            
    <div>
